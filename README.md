@@ -1,4 +1,4 @@
-# Frosthaven
+# Jaws of the Lion
 
 An easy-to-use collection of data and images from [Jaws of the Lion] (http://www.cephalofair.com/jotl) by [Cephalofair Games] (http://www.cephalofair.com/) [Developer: Isaac Childres].
 
