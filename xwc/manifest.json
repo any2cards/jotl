@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "JOTL Card Viewer",
   "description": "Adds card images when it finds card names from the Jaws of the Lion game.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "web_accessible_resources": [
     "icon-32.png"
   ],
