@@ -6,8 +6,10 @@ An easy-to-use collection of data and images from [Jaws of the Lion] (http://www
 
 This repository contains data and images for the following components:
 
+- attack-modifiers
 - character-ability-cards
 - character-mats
+- character-perks
 
 There are two top-level directories; `data` and `images`.
 
@@ -63,7 +65,6 @@ See the [Releases tab](https://github.com/any2cards/jotl/releases) in Github.
 ## Contributors
 
 - William Habush (any2cards@yahoo.com)
-- Guido Hansen (sadgit@penultimate.de)
 
 This work would not have been possible without the invaluable help and guidance of Guido Kessels. You can find his excellent X-Wing data at: https://github.com/guidokessels/xwing-data.
 
