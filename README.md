@@ -47,7 +47,8 @@ When adding images please use [TinyPNG](https://tinypng.com/) to reduce their fi
 
 A list of projects that use this content:
 
-- [JOTL Card Viewer](https://chrome.google.com/webstore/search/jotl%20card%20viewer) (Chrome Extension)
+- [JOTL Card Viewer](https://chrome.google.com/webstore/detail/jotl-card-viewer/flinifpmhnobnjkdbdakehbokmiallkk) (Chrome Extension)
+- [JOTL Card Viewer](https://addons.mozilla.org/en-US/firefox/addon/jotl-card-viewer/) (Firefox Add-On)
 
 Want your project listed here? [Let us know!](https://github.com/any2cards/jotl/issues/new?title=Add%20Project)
 
