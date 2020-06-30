@@ -38,7 +38,7 @@
   {
     "name": "b-one-two punch",
     "points": 6,
- -   "image": "character-ability-cards/DE/b-one-two-punch.png",
+    "image": "character-ability-cards/DE/b-one-two-punch.png",
     "xws": "bonetwopunch"
   },
   {
