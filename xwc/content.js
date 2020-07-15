@@ -1,8 +1,13 @@
 const files = [
   'attack-modifiers.js',
+  'battle-goals.js',
   'character-ability-cards.js',
   'character-mats.js',
   'character-perks.js',
+  'events.js',
+  'items.js',
+  'monster-ability-cards.js',
+  'monster-stat-cards.js',
 ]
 
 const repoBaseUrl = 'https://raw.githubusercontent.com/any2cards/jotl/master';
