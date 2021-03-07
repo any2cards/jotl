@@ -120,10 +120,10 @@
     "xws": "pincushion"
   },
   {
-    "name": "plebian",
+    "name": "plebeian",
     "points": 20,
-    "image": "battle-goals/plebian.png",
-    "xws": "plebian"
+    "image": "battle-goals/plebeian.png",
+    "xws": "plebeian"
   },
   {
     "name": "prohibitionist",
