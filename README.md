@@ -1,25 +1,34 @@
-# Jaws of the Lion
+# Jaws of the Lion (JotL)
 
-An easy-to-use collection of data and images from [Jaws of the Lion] (http://www.cephalofair.com/jotl) by [Cephalofair Games] (http://www.cephalofair.com/) [Developer: Isaac Childres].
+An easy-to-use collection of data and images from [Jaws of the Lion](http://www.cephalofair.com/jotl) by [Cephalofair Games](http://www.cephalofair.com/) - Developer: **Isaac Childres**.
 
 ## What's included
 
 This repository contains data and images for the following components:
 
 - attack-modifiers
+- battle-goals
 - character-ability-cards
 - character-mats
 - character-perks
+- events
+- items
+- monster-ability-cards
+- monster-stat-cards
 
-There are two top-level directories; `data` and `images`.
+There are three top-level directories; `data` , `images` , `xwc`.
 
 ### data
 
-The `data` folder contains all Jaws of the Lion data in JSON format.
+The `data` folder contains all JotL Card Viewer data in JSON format.
 
 ### images
 
-The `images` folder contains images for each of the above components.
+The `images` folder contains all JotL Card Viewer images for each of the above components.
+
+### xwc
+
+The `xwc` folder contains all of the files that power the JotL Card Viewer Chrome Extension/Firefox Add-On.
 
 ## Usage
 
