@@ -37,6 +37,13 @@
 				border: 1px solid #9999ff;
 				background-color: #dddddd;
 			}
+			.table-padded td {
+				padding: 0px 20px 0px 30px;
+			}
+			.td-bu {
+				font-weight: bold;
+				Text-decoration: underline;
+			}
 		</style>
 		<script>
 			// at statup hide all
@@ -52,13 +59,13 @@
 					var LinkedTextZone = $(this).next();
 
 					if (Icon.hasClass('fa-plus')) {
-						//switch icin from + to -
+						//switch icon from + to -
 						Icon.removeClass('fa-plus').addClass('fa-minus');
 						//expand text Zone
 						LinkedTextZone.slideDown();
 					}
 					else {
-						//switch icin from - to +
+						//switch icon from - to +
 						Icon.removeClass('fa-minus').addClass('fa-plus');
 						//collapse text Zone
 						LinkedTextZone.slideUp();
@@ -113,161 +120,97 @@
 									<h3><i class="fa fa-plus"></i> Monster </h3>
 									<div class="TextZone">
 										<div class="accordion">
-											<ul>
-												<li>am-m-01</li>
-												<li>am-m-02</li>
-												<li>am-m-03</li>
-												<li>am-m-04</li>
-												<li>am-m-05</li>
-												<li>am-m-06</li>
-												<li>am-m-07</li>
-												<li>am-m-08</li>
-												<li>am-m-09</li>
-												<li>am-m-10</li>
-												<li>am-m-11</li>
-												<li>am-m-12</li>
-												<li>am-m-13</li>
-												<li>am-m-14</li>
-												<li>am-m-15</li>
-												<li>am-m-16</li>
-												<li>am-m-17</li>
-												<li>am-m-18</li>
-												<li>am-m-19</li>
-												<li>am-m-20</li>
-												<li>am-m-back</li>
-											</ul>
+											<table class="table-padded">
+												<tr><td>am-m-back</td></tr>
+												<tr><td>&nbsp</td></tr>
+												<tr><td>am-m-01</td><td>am-m-06</td><td>am-m-11</td><td>am-m-16</td></tr>
+												<tr><td>am-m-02</td><td>am-m-07</td><td>am-m-12</td><td>am-m-17</td></tr>
+												<tr><td>am-m-03</td><td>am-m-08</td><td>am-m-13</td><td>am-m-18</td></tr>
+												<tr><td>am-m-04</td><td>am-m-09</td><td>am-m-14</td><td>am-m-19</td></tr>
+												<tr><td>am-m-05</td><td>am-m-10</td><td>am-m-15</td><td>am-m-20</td></tr>
+											</table>
 										</div>
 									</div>
 									<h3><i class="fa fa-plus"></i> Monster Mod</h3>
 									<div class="TextZone">
 										<div class="accordion">
-											<ul>
-												<li>am-mm-01</li>
-												<li>am-mm-02</li>
-												<li>am-mm-03</li>
-												<li>am-mm-04</li>
-												<li>am-mm-05</li>
-												<li>am-mm-06</li>
-												<li>am-mm-07</li>
-												<li>am-mm-08</li>
-												<li>am-mm-09</li>
-												<li>am-mm-10</li>
-												<li>am-mm-back</li>
-											</ul>
+											<table class="table-padded">
+												<tr><td>am-mm-back</td></tr>
+												<tr><td>&nbsp</td></tr>
+												<tr><td>am-mm-01</td><td>am-mm-06</td></tr>
+												<tr><td>am-mm-02</td><td>am-mm-07</td></tr>
+												<tr><td>am-mm-03</td><td>am-mm-08</td></tr>
+												<tr><td>am-mm-04</td><td>am-mm-09</td></tr>
+												<tr><td>am-mm-05</td><td>am-mm-10</td></tr>
+											</table>
 										</div>
 									</div>
 									<h3><i class="fa fa-plus"></i> Player Mod</h3>
 									<div class="TextZone">
 										<div class="accordion">
-											<ul>
-												<li>am-pm-01</li>
-												<li>am-pm-02</li>
-												<li>am-pm-03</li>
-												<li>am-pm-04</li>
-												<li>am-pm-05</li>
-												<li>am-pm-06</li>
-												<li>am-pm-07</li>
-												<li>am-pm-08</li>
-												<li>am-pm-09</li>
-												<li>am-pm-10</li>
-												<li>am-pm-11</li>
-												<li>am-pm-12</li>
-												<li>am-pm-13</li>
-												<li>am-pm-14</li>
-												<li>am-pm-15</li>
-												<li>am-pm-16</li>
-												<li>am-pm-17</li>
-												<li>am-pm-18</li>
-												<li>am-pm-19</li>
-												<li>am-pm-20</li>
-												<li>am-pm-back</li>
-											</ul>
+											<table class="table-padded">
+												<tr><td>am-pm-back</td></tr>
+												<tr><td>&nbsp</td></tr>
+												<tr><td>am-pm-01</td><td>am-pm-06</td><td>am-pm-11</td><td>am-pm-16</td></tr>
+												<tr><td>am-pm-02</td><td>am-pm-07</td><td>am-pm-12</td><td>am-pm-17</td></tr>
+												<tr><td>am-pm-03</td><td>am-pm-08</td><td>am-pm-13</td><td>am-pm-18</td></tr>
+												<tr><td>am-pm-04</td><td>am-pm-09</td><td>am-pm-14</td><td>am-pm-19</td></tr>
+												<tr><td>am-pm-05</td><td>am-pm-10</td><td>am-pm-15</td><td>am-pm-20</td></tr>
+											</table>
 										</div>
 									</div>
 								</div>
 							</div>
 							<h2><i class="fa fa-plus"></i> Demolitionist </h2>
 							<div class="TextZone">
-								<ul>
-									<li>am-de-01</li>
-									<li>am-de-02</li>
-									<li>am-de-03</li>
-									<li>am-de-04</li>
-									<li>am-de-05</li>
-									<li>am-de-06</li>
-									<li>am-de-07</li>
-									<li>am-de-08</li>
-									<li>am-de-09</li>
-									<li>am-de-10</li>
-									<li>am-de-11</li>
-									<li>am-de-back</li>
-								</ul>
+								<table class="table-padded">
+									<tr><td>am-de-back</td></tr>
+									<tr><td>&nbsp</td></tr>
+									<tr><td>am-de-01</td><td>am-de-04</td><td>am-de-07</td><td>am-de-10</td></tr>
+									<tr><td>am-de-02</td><td>am-de-05</td><td>am-de-08</td><td>am-de-11</td></tr>
+									<tr><td>am-de-03</td><td>am-de-06</td><td>am-de-09</td></tr>
+								</table>
 							</div>
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Hatchet </h2>
 							<div class="TextZone">
-								<ul>
-									<li>am-ha-01</li>
-									<li>am-ha-02</li>
-									<li>am-ha-03</li>
-									<li>am-ha-04</li>
-									<li>am-ha-05</li>
-									<li>am-ha-06</li>
-									<li>am-ha-07</li>
-									<li>am-ha-08</li>
-									<li>am-ha-09</li>
-									<li>am-ha-10</li>
-									<li>am-ha-11</li>
-									<li>am-ha-12</li>
-									<li>am-ha-13</li>
-									<li>am-ha-back</li>
-								</ul>
+								<table class="table-padded">
+									<tr><td>am-ha-back</td></tr>
+									<tr><td>&nbsp</td></tr>
+									<tr><td>am-ha-01</td><td>am-ha-04</td><td>am-ha-07</td><td>am-ha-10</td><td>am-ha-13</td></tr>
+									<tr><td>am-ha-02</td><td>am-ha-05</td><td>am-ha-08</td><td>am-ha-11</td></tr>
+									<tr><td>am-ha-03</td><td>am-ha-06</td><td>am-ha-09</td><td>am-ha-12</td></tr>
+								</table>
 							</div>
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Red Guard </h2>
 							<div class="TextZone">
-								<ul>
-									<li>am-rg-01</li>
-									<li>am-rg-02</li>
-									<li>am-rg-03</li>
-									<li>am-rg-04</li>
-									<li>am-rg-05</li>
-									<li>am-rg-06</li>
-									<li>am-rg-07</li>
-									<li>am-rg-08</li>
-									<li>am-rg-09</li>
-									<li>am-rg-10</li>
-									<li>am-rg-11</li>
-									<li>am-rg-12</li>
-									<li>am-rg-back</li>
-								</ul>
+								<table class="table-padded">
+									<tr><td>am-rg-back</td></tr>
+									<tr><td>&nbsp</td></tr>
+									<tr><td>am-rg-01</td><td>am-rg-04</td><td>am-rg-07</td><td>am-rg-10</td></tr>
+									<tr><td>am-rg-02</td><td>am-rg-05</td><td>am-rg-08</td><td>am-rg-11</td></tr>
+									<tr><td>am-rg-03</td><td>am-rg-06</td><td>am-rg-09</td><td>am-rg-12</td></tr>
+								</table>
 							</div>
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Voidwarden </h2>
 							<div class="TextZone">
-								<ul>
-									<li>am-vw-01</li>
-									<li>am-vw-02</li>
-									<li>am-vw-03</li>
-									<li>am-vw-04</li>
-									<li>am-vw-05</li>
-									<li>am-vw-06</li>
-									<li>am-vw-07</li>
-									<li>am-vw-08</li>
-									<li>am-vw-09</li>
-									<li>am-vw-10</li>
-									<li>am-vw-11</li>
-									<li>am-vw-12</li>
-									<li>am-vw-13</li>
-									<li>am-vw-back</li>
-								</ul>
+								<table class="table-padded">
+									<tr><td>am-vw-back</td></tr>
+									<tr><td>&nbsp</td></tr>
+									<tr><td>am-vw-01</td><td>am-vw-04</td><td>am-vw-07</td><td>am-vw-10</td><td>am-vw-13</td></tr>
+									<tr><td>am-vw-02</td><td>am-vw-05</td><td>am-vw-08</td><td>am-vw-11</td></tr>
+									<tr><td>am-vw-03</td><td>am-vw-06</td><td>am-vw-09</td><td>am-vw-12</td></tr>
+								</table>
 							</div>
 						</div>
 					</div>
 				</div>
+
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Battle Goals </h1>
 					<div class="TextZone">
@@ -308,6 +251,7 @@
 						</ul>
 					</div>
 				</div>
+
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Character Ability Cards </h1>
 					<div class="TextZone">
@@ -461,6 +405,7 @@
 						</div>
 					</div>
 				</div>
+
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Character Mats </h1>
 					<div class="TextZone">
@@ -472,6 +417,7 @@
 						</ul>
 					</div>
 				</div>
+
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Character Perks </h1>
 					<div class="TextZone">
@@ -483,6 +429,7 @@
 						</ul>
 					</div>
 				</div>
+
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Events </h1>
 					<div class="TextZone">
@@ -539,6 +486,7 @@
 						</div>
 					</div>
 				</div>
+
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Items </h1>
 					<div class="TextZone">
@@ -615,6 +563,7 @@
 						</div>
 					</div>
 				</div>
+
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Monster Ability Cards </h1>
 					<div class="TextZone">
@@ -942,6 +891,7 @@
 						</div>
 					</div>
 				</div>
+
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Monster Stat Cards </h1>
 					<div class="TextZone">
@@ -966,6 +916,7 @@
 					</div>
 				</div>
 			</div>
+
 			<h1><i class="fa fa-plus"></i> Test Page: Everything Spoiled </h1>
 			<div class="TextZone">
 				<div class="accordion">
@@ -978,161 +929,97 @@
 									<h3><i class="fa fa-plus"></i> Monster </h3>
 									<div class="TextZone">
 										<div class="accordion">
-											<ul>
-												<li>am-m-01</li>
-												<li>am-m-02</li>
-												<li>am-m-03</li>
-												<li>am-m-04</li>
-												<li>am-m-05</li>
-												<li>am-m-06</li>
-												<li>am-m-07</li>
-												<li>am-m-08</li>
-												<li>am-m-09</li>
-												<li>am-m-10</li>
-												<li>am-m-11</li>
-												<li>am-m-12</li>
-												<li>am-m-13</li>
-												<li>am-m-14</li>
-												<li>am-m-15</li>
-												<li>am-m-16</li>
-												<li>am-m-17</li>
-												<li>am-m-18</li>
-												<li>am-m-19</li>
-												<li>am-m-20</li>
-												<li>am-m-back</li>
-											</ul>
+											<table class="table-padded">
+												<tr><td>am-m-back</td></tr>
+												<tr><td>&nbsp</td></tr>
+												<tr><td>am-m-01</td><td>am-m-06</td><td>am-m-11</td><td>am-m-16</td></tr>
+												<tr><td>am-m-02</td><td>am-m-07</td><td>am-m-12</td><td>am-m-17</td></tr>
+												<tr><td>am-m-03</td><td>am-m-08</td><td>am-m-13</td><td>am-m-18</td></tr>
+												<tr><td>am-m-04</td><td>am-m-09</td><td>am-m-14</td><td>am-m-19</td></tr>
+												<tr><td>am-m-05</td><td>am-m-10</td><td>am-m-15</td><td>am-m-20</td></tr>
+											</table>
 										</div>
 									</div>
 									<h3><i class="fa fa-plus"></i> Monster Mod</h3>
 									<div class="TextZone">
 										<div class="accordion">
-											<ul>
-												<li>am-mm-01</li>
-												<li>am-mm-02</li>
-												<li>am-mm-03</li>
-												<li>am-mm-04</li>
-												<li>am-mm-05</li>
-												<li>am-mm-06</li>
-												<li>am-mm-07</li>
-												<li>am-mm-08</li>
-												<li>am-mm-09</li>
-												<li>am-mm-10</li>
-												<li>am-mm-back</li>
-											</ul>
+											<table class="table-padded">
+												<tr><td>am-mm-back</td></tr>
+												<tr><td>&nbsp</td></tr>
+												<tr><td>am-mm-01</td><td>am-mm-06</td></tr>
+												<tr><td>am-mm-02</td><td>am-mm-07</td></tr>
+												<tr><td>am-mm-03</td><td>am-mm-08</td></tr>
+												<tr><td>am-mm-04</td><td>am-mm-09</td></tr>
+												<tr><td>am-mm-05</td><td>am-mm-10</td></tr>
+											</table>
 										</div>
 									</div>
 									<h3><i class="fa fa-plus"></i> Player Mod</h3>
 									<div class="TextZone">
 										<div class="accordion">
-											<ul>
-												<li>am-pm-01</li>
-												<li>am-pm-02</li>
-												<li>am-pm-03</li>
-												<li>am-pm-04</li>
-												<li>am-pm-05</li>
-												<li>am-pm-06</li>
-												<li>am-pm-07</li>
-												<li>am-pm-08</li>
-												<li>am-pm-09</li>
-												<li>am-pm-10</li>
-												<li>am-pm-11</li>
-												<li>am-pm-12</li>
-												<li>am-pm-13</li>
-												<li>am-pm-14</li>
-												<li>am-pm-15</li>
-												<li>am-pm-16</li>
-												<li>am-pm-17</li>
-												<li>am-pm-18</li>
-												<li>am-pm-19</li>
-												<li>am-pm-20</li>
-												<li>am-pm-back</li>
-											</ul>
+											<table class="table-padded">
+												<tr><td>am-pm-back</td></tr>
+												<tr><td>&nbsp</td></tr>
+												<tr><td>am-pm-01</td><td>am-pm-06</td><td>am-pm-11</td><td>am-pm-16</td></tr>
+												<tr><td>am-pm-02</td><td>am-pm-07</td><td>am-pm-12</td><td>am-pm-17</td></tr>
+												<tr><td>am-pm-03</td><td>am-pm-08</td><td>am-pm-13</td><td>am-pm-18</td></tr>
+												<tr><td>am-pm-04</td><td>am-pm-09</td><td>am-pm-14</td><td>am-pm-19</td></tr>
+												<tr><td>am-pm-05</td><td>am-pm-10</td><td>am-pm-15</td><td>am-pm-20</td></tr>
+											</table>
 										</div>
 									</div>
 								</div>
 							</div>
 							<h2><i class="fa fa-plus"></i> Demolitionist </h2>
 							<div class="TextZone">
-								<ul>
-									<li>am-de-01</li>
-									<li>am-de-02</li>
-									<li>am-de-03</li>
-									<li>am-de-04</li>
-									<li>am-de-05</li>
-									<li>am-de-06</li>
-									<li>am-de-07</li>
-									<li>am-de-08</li>
-									<li>am-de-09</li>
-									<li>am-de-10</li>
-									<li>am-de-11</li>
-									<li>am-de-back</li>
-								</ul>
+								<table class="table-padded">
+									<tr><td>am-de-back</td></tr>
+									<tr><td>&nbsp</td></tr>
+									<tr><td>am-de-01</td><td>am-de-04</td><td>am-de-07</td><td>am-de-10</td></tr>
+									<tr><td>am-de-02</td><td>am-de-05</td><td>am-de-08</td><td>am-de-11</td></tr>
+									<tr><td>am-de-03</td><td>am-de-06</td><td>am-de-09</td></tr>
+								</table>
 							</div>
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Hatchet </h2>
 							<div class="TextZone">
-								<ul>
-									<li>am-ha-01</li>
-									<li>am-ha-02</li>
-									<li>am-ha-03</li>
-									<li>am-ha-04</li>
-									<li>am-ha-05</li>
-									<li>am-ha-06</li>
-									<li>am-ha-07</li>
-									<li>am-ha-08</li>
-									<li>am-ha-09</li>
-									<li>am-ha-10</li>
-									<li>am-ha-11</li>
-									<li>am-ha-12</li>
-									<li>am-ha-13</li>
-									<li>am-ha-back</li>
-								</ul>
+								<table class="table-padded">
+									<tr><td>am-ha-back</td></tr>
+									<tr><td>&nbsp</td></tr>
+									<tr><td>am-ha-01</td><td>am-ha-04</td><td>am-ha-07</td><td>am-ha-10</td><td>am-ha-13</td></tr>
+									<tr><td>am-ha-02</td><td>am-ha-05</td><td>am-ha-08</td><td>am-ha-11</td></tr>
+									<tr><td>am-ha-03</td><td>am-ha-06</td><td>am-ha-09</td><td>am-ha-12</td></tr>
+								</table>
 							</div>
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Red Guard </h2>
 							<div class="TextZone">
-								<ul>
-									<li>am-rg-01</li>
-									<li>am-rg-02</li>
-									<li>am-rg-03</li>
-									<li>am-rg-04</li>
-									<li>am-rg-05</li>
-									<li>am-rg-06</li>
-									<li>am-rg-07</li>
-									<li>am-rg-08</li>
-									<li>am-rg-09</li>
-									<li>am-rg-10</li>
-									<li>am-rg-11</li>
-									<li>am-rg-12</li>
-									<li>am-rg-back</li>
-								</ul>
+								<table class="table-padded">
+									<tr><td>am-rg-back</td></tr>
+									<tr><td>&nbsp</td></tr>
+									<tr><td>am-rg-01</td><td>am-rg-04</td><td>am-rg-07</td><td>am-rg-10</td></tr>
+									<tr><td>am-rg-02</td><td>am-rg-05</td><td>am-rg-08</td><td>am-rg-11</td></tr>
+									<tr><td>am-rg-03</td><td>am-rg-06</td><td>am-rg-09</td><td>am-rg-12</td></tr>
+								</table>
 							</div>
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Voidwarden </h2>
 							<div class="TextZone">
-								<ul>
-									<li>am-vw-01</li>
-									<li>am-vw-02</li>
-									<li>am-vw-03</li>
-									<li>am-vw-04</li>
-									<li>am-vw-05</li>
-									<li>am-vw-06</li>
-									<li>am-vw-07</li>
-									<li>am-vw-08</li>
-									<li>am-vw-09</li>
-									<li>am-vw-10</li>
-									<li>am-vw-11</li>
-									<li>am-vw-12</li>
-									<li>am-vw-13</li>
-									<li>am-vw-back</li>
-								</ul>
+								<table class="table-padded">
+									<tr><td>am-vw-back</td></tr>
+									<tr><td>&nbsp</td></tr>
+									<tr><td>am-vw-01</td><td>am-vw-04</td><td>am-vw-07</td><td>am-vw-10</td><td>am-vw-13</td></tr>
+									<tr><td>am-vw-02</td><td>am-vw-05</td><td>am-vw-08</td><td>am-vw-11</td></tr>
+									<tr><td>am-vw-03</td><td>am-vw-06</td><td>am-vw-09</td><td>am-vw-12</td></tr>
+								</table>
 							</div>
 						</div>
 					</div>
 				</div>
+
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Battle Goals </h1>
 					<div class="TextZone">
@@ -1173,6 +1060,7 @@
 						</ul>
 					</div>
 				</div>
+
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Character Ability Cards </h1>
 					<div class="TextZone">
@@ -1370,6 +1258,7 @@
 						</div>
 					</div>
 				</div>
+
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Character Mats </h1>
 					<div class="TextZone">
@@ -1381,6 +1270,7 @@
 						</ul>
 					</div>
 				</div>
+
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Character Perks </h1>
 					<div class="TextZone">
@@ -1392,6 +1282,7 @@
 						</ul>
 					</div>
 				</div>
+
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Events </h1>
 					<div class="TextZone">
@@ -1448,6 +1339,7 @@
 						</div>
 					</div>
 				</div>
+
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Items </h1>
 					<div class="TextZone">
@@ -1524,6 +1416,7 @@
 						</div>
 					</div>
 				</div>
+
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Monster Ability Cards </h1>
 					<div class="TextZone">
@@ -1851,6 +1744,7 @@
 						</div>
 					</div>
 				</div>
+
 				<div class="accordion">
 					<h1><i class="fa fa-plus"></i> Monster Stat Cards </h1>
 					<div class="TextZone">
