@@ -132,62 +132,74 @@
     "xws": "livingspirit"
   },
   {
-    "name": "rat monstrosity",
+    "name": "monster stat card envelope 6",
     "points": 22,
+    "image": "monster-stat-cards/monster-stat-card-envelope-6.png",
+    "xws": "monsterstatcardenvelope6"
+  },
+  {
+    "name": "monster stat card envelope 10",
+    "points": 23,
+    "image": "monster-stat-cards/monster-stat-card-envelope-10.png",
+    "xws": "monsterstatcardenvelope6"
+  },
+  {
+    "name": "rat monstrosity",
+    "points": 24,
     "image": "monster-stat-cards/rat-monstrosity-0.png",
     "xws": "ratmonstrosity"
   },
   {
     "name": "rat monstrosity",
-    "points": 23,
+    "points": 25,
     "image": "monster-stat-cards/rat-monstrosity-4.png",
     "xws": "ratmonstrosity"
   },
   {
     "name": "stone golem",
-    "points": 24,
+    "points": 26,
     "image": "monster-stat-cards/stone-golem-0.png",
     "xws": "stonegolem"
   },
   {
     "name": "stone golem",
-    "points": 25,
+    "points": 27,
     "image": "monster-stat-cards/stone-golem-4.png",
     "xws": "stonegolem"
   },
   {
     "name": "vermling raider",
-    "points": 26,
+    "points": 28,
     "image": "monster-stat-cards/vermling-raider-0.png",
     "xws": "vermlingraider"
   },
   {
     "name": "vermling raider",
-    "points": 27,
+    "points": 29,
     "image": "monster-stat-cards/vermling-raider-4.png",
     "xws": "vermlingraider"
   },
   {
     "name": "vermling scout",
-    "points": 28,
+    "points": 30,
     "image": "monster-stat-cards/vermling-scout-0.png",
     "xws": "vermlingscout"
   },
   {
     "name": "vermling scout",
-    "points": 29,
+    "points": 31,
     "image": "monster-stat-cards/vermling-scout-4.png",
     "xws": "vermlingscout"
   },
   {
     "name": "zealot",
-    "points": 30,
+    "points": 32,
     "image": "monster-stat-cards/zealot-0.png",
     "xws": "zealot"
   },
   {
     "name": "zealot",
-    "points": 31,
+    "points": 33,
     "image": "monster-stat-cards/zealot-4.png",
     "xws": "zealot"
   }
