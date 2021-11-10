@@ -1,6 +1,4 @@
-# NOTE: This repository will be deprecated and removed as of December 1st, 2021.  As of 11/10/2021, it has been superseded by the [Worldhaven Asset Viewer](https://github.com/any2cards/worldhaven). If you have forked or starred this current repository, I suggest you go the the Worldhaven Asset Viewer and do the same.  Thank you.
-
-## Jaws of the Lion (JotL)
+# Jaws of the Lion (JotL)
 
 An easy-to-use collection of data and images from [Jaws of the Lion](http://www.cephalofair.com/jotl) by [Cephalofair Games](http://www.cephalofair.com/) - Developer: **Isaac Childres**.
 
