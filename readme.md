@@ -2,6 +2,8 @@
 
 An easy-to-use collection of data and images from [Jaws of the Lion](http://www.cephalofair.com/jotl) by [Cephalofair Games](http://www.cephalofair.com/) - Developer: **Isaac Childres**.
 
+11/10/2021: Only used for Firefox Add-On. The new Chrome Extension is powered by [Worldhaven Asset Viewer](https://github.com/any2cards/worldhaven).
+
 ## What's included
 
 This repository contains data and images for the following components:
