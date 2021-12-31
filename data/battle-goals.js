@@ -1,6 +1,6 @@
 [
   {
-    "name": "battle goals back",
+    "name": "battle-goals-back",
     "points": 0,
     "expansion": "Jaws Of The Lion",
     "image": "battle-goals/jaws-of-the-lion/jl-battle-goals-back.png",
