@@ -312,11 +312,11 @@
     "assetno": "304"
   },
   {
-    "name": "plebian",
+    "name": "plebeian",
     "points": 39,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-plebeian.png",
-    "xws": "plebian",
+    "xws": "plebeian",
     "assetno": "305"
   },
   {
@@ -324,7 +324,7 @@
     "points": 40,
     "expansion": "jaws of the lion",
     "image": "battle-goals/jaws-of-the-lion/jl-plebeian.png",
-    "xws": "plebian",
+    "xws": "plebeian",
     "assetno": "305"
   },
   {
