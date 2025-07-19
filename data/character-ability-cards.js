@@ -616,869 +616,1214 @@
     "assetno": "082"
   },
   {
-    "name": "ha-back",
-    "points": 77,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-ha-back.png",
-    "xws": "haback"
-  },
-  {
-    "name": "ha-halt-back",
-    "points": 78,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-ha-halt-back.png",
-    "xws": "hahaltback"
-  },
-  {
-    "name": "ha-halt-front",
-    "points": 79,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-ha-halt-front.png",
-    "xws": "hahaltfront"
-  },
-  {
-    "name": "ha-player-reference-back",
-    "points": 80,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-ha-player-reference-back.png",
-    "xws": "haplayerreferenceback"
-  },
-  {
-    "name": "ha-player-reference-front",
-    "points": 81,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-ha-player-reference-front.png",
-    "xws": "haplayerreferencefront"
-  },
-  {
     "name": "a-center mass",
-    "points": 82,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-a-center-mass.png",
-    "xws": "acentermass"
+    "points": 77,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-center-mass.png",
+    "xws": "acentermass",
+    "assetno": "006"
+  },
+  {
+    "name": "006",
+    "points": 78,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-center-mass.png",
+    "xws": "acentermass",
+    "assetno": "006"
   },
   {
     "name": "a-close cuts",
-    "points": 83,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-a-close-cuts.png",
-    "xws": "aclosecuts"
+    "points": 79,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-close-cuts.png",
+    "xws": "aclosecuts",
+    "assetno": "007"
+  },
+  {
+    "name": "007",
+    "points": 80,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-close-cuts.png",
+    "xws": "aclosecuts",
+    "assetno": "007"
   },
   {
     "name": "a-disorienting barrage",
-    "points": 84,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-a-disorienting-barrage.png",
-    "xws": "adisorientingbarrage"
+    "points": 81,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-disorienting-barrage.png",
+    "xws": "adisorientingbarrage",
+    "assetno": "004"
+  },
+  {
+    "name": "004",
+    "points": 82,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-disorienting-barrage.png",
+    "xws": "adisorientingbarrage",
+    "assetno": "004"
   },
   {
     "name": "a-double throw",
-    "points": 85,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-a-double-throw.png",
-    "xws": "adoublethrow"
+    "points": 83,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-double-throw.png",
+    "xws": "adoublethrow",
+    "assetno": "003"
+  },
+  {
+    "name": "003",
+    "points": 84,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-double-throw.png",
+    "xws": "adoublethrow",
+    "assetno": "003"
   },
   {
     "name": "a-second wind",
+    "points": 85,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-second-wind.png",
+    "xws": "asecondwind",
+    "assetno": "005"
+  },
+  {
+    "name": "005",
     "points": 86,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-a-second-wind.png",
-    "xws": "asecondwind"
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-second-wind.png",
+    "xws": "asecondwind",
+    "assetno": "005"
   },
   {
     "name": "a-stopping power",
     "points": 87,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-a-stopping-power.png",
-    "xws": "astoppingpower"
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-stopping-power.png",
+    "xws": "astoppingpower",
+    "assetno": "002"
+  },
+  {
+    "name": "002",
+    "points": 88,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-a-stopping-power.png",
+    "xws": "astoppingpower",
+    "assetno": "002"
   },
   {
     "name": "b-center mass",
-    "points": 88,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-b-center-mass.png",
-    "xws": "bcentermass"
+    "points": 89,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-b-center-mass.png",
+    "xws": "bcentermass",
+    "assetno": "008"
+  },
+  {
+    "name": "008",
+    "points": 90,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-b-center-mass.png",
+    "xws": "bcentermass",
+    "assetno": "008"
   },
   {
     "name": "b-close cuts",
-    "points": 89,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-b-close-cuts.png",
-    "xws": "bclosecuts"
+    "points": 91,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-b-close-cuts.png",
+    "xws": "bclosecuts",
+    "assetno": "009"
+  },
+  {
+    "name": "009",
+    "points": 92,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-b-close-cuts.png",
+    "xws": "bclosecuts",
+    "assetno": "009"
   },
   {
     "name": "bombardment",
-    "points": 90,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-bombardment.png",
-    "xws": "bombardment"
+    "points": 93,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-bombardment.png",
+    "xws": "bombardment",
+    "assetno": "031"
+  },
+  {
+    "name": "031",
+    "points": 94,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-bombardment.png",
+    "xws": "bombardment",
+    "assetno": "031"
   },
   {
     "name": "brutalize",
-    "points": 91,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-brutalize.png",
-    "xws": "brutalize"
+    "points": 95,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-brutalize.png",
+    "xws": "brutalize",
+    "assetno": "034"
+  },
+  {
+    "name": "034",
+    "points": 96,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-brutalize.png",
+    "xws": "brutalize",
+    "assetno": "034"
   },
   {
     "name": "camaraderie",
-    "points": 92,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-camaraderie.png",
-    "xws": "camaraderie"
+    "points": 97,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-camaraderie.png",
+    "xws": "camaraderie",
+    "assetno": "036"
+  },
+  {
+    "name": "036",
+    "points": 98,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-camaraderie.png",
+    "xws": "camaraderie",
+    "assetno": "036"
   },
   {
     "name": "care package",
-    "points": 93,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-care-package.png",
-    "xws": "carepackage"
+    "points": 99,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-care-package.png",
+    "xws": "carepackage",
+    "assetno": "020"
+  },
+  {
+    "name": "020",
+    "points": 100,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-care-package.png",
+    "xws": "carepackage",
+    "assetno": "020"
   },
   {
     "name": "center mass",
-    "points": 94,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-center-mass.png",
-    "xws": "centermass"
+    "points": 101,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-center-mass.png",
+    "xws": "centermass",
+    "assetno": "013"
+  },
+  {
+    "name": "013",
+    "points": 102,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-center-mass.png",
+    "xws": "centermass",
+    "assetno": "013"
   },
   {
     "name": "close cuts",
-    "points": 95,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-close-cuts.png",
-    "xws": "closecuts"
+    "points": 103,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-close-cuts.png",
+    "xws": "closecuts",
+    "assetno": "012"
+  },
+  {
+    "name": "012",
+    "points": 104,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-close-cuts.png",
+    "xws": "closecuts",
+    "assetno": "012"
   },
   {
     "name": "disorienting barrage",
-    "points": 96,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-disorienting-barrage.png",
-    "xws": "disorientingbarrage"
+    "points": 105,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-disorienting-barrage.png",
+    "xws": "disorientingbarrage",
+    "assetno": "016"
+  },
+  {
+    "name": "016",
+    "points": 106,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-disorienting-barrage.png",
+    "xws": "disorientingbarrage",
+    "assetno": "016"
   },
   {
     "name": "double throw",
-    "points": 97,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-double-throw.png",
-    "xws": "doublethrow"
+    "points": 107,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-double-throw.png",
+    "xws": "doublethrow",
+    "assetno": "015"
+  },
+  {
+    "name": "015",
+    "points": 108,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-double-throw.png",
+    "xws": "doublethrow",
+    "assetno": "015"
   },
   {
     "name": "excessive force",
-    "points": 98,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-excessive-force.png",
-    "xws": "excessiveforce"
+    "points": 109,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-excessive-force.png",
+    "xws": "excessiveforce",
+    "assetno": "033"
+  },
+  {
+    "name": "033",
+    "points": 110,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-excessive-force.png",
+    "xws": "excessiveforce",
+    "assetno": "033"
   },
   {
     "name": "executioner's axe",
-    "points": 99,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-executioners-axe.png",
-    "xws": "executionersaxe"
+    "points": 111,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-executioners-axe.png",
+    "xws": "executionersaxe",
+    "assetno": "037"
+  },
+  {
+    "name": "037",
+    "points": 112,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-executioners-axe.png",
+    "xws": "executionersaxe",
+    "assetno": "037"
   },
   {
     "name": "extra lift",
-    "points": 100,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-extra-lift.png",
-    "xws": "extralift"
+    "points": 113,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-extra-lift.png",
+    "xws": "extralift",
+    "assetno": "021"
+  },
+  {
+    "name": "021",
+    "points": 114,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-extra-lift.png",
+    "xws": "extralift",
+    "assetno": "021"
   },
   {
     "name": "fancy hat",
-    "points": 101,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-fancy-hat.png",
-    "xws": "fancyhat"
+    "points": 115,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-fancy-hat.png",
+    "xws": "fancyhat",
+    "assetno": "022"
+  },
+  {
+    "name": "022",
+    "points": 116,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-fancy-hat.png",
+    "xws": "fancyhat",
+    "assetno": "022"
   },
   {
     "name": "fearsome efficiency",
-    "points": 102,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-fearsome-efficiency.png",
-    "xws": "fearsomeefficiency"
+    "points": 117,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-fearsome-efficiency.png",
+    "xws": "fearsomeefficiency",
+    "assetno": "025"
+  },
+  {
+    "name": "025",
+    "points": 118,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-fearsome-efficiency.png",
+    "xws": "fearsomeefficiency",
+    "assetno": "025"
   },
   {
     "name": "follow through",
-    "points": 103,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-follow-through.png",
-    "xws": "followthrough"
+    "points": 119,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-follow-through.png",
+    "xws": "followthrough",
+    "assetno": "018"
+  },
+  {
+    "name": "018",
+    "points": 120,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-follow-through.png",
+    "xws": "followthrough",
+    "assetno": "018"
+  },
+  {
+    "name": "ha-back",
+    "points": 121,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ha-back.png",
+    "xws": "haback",
+    "assetno": "###"
+  },
+  {
+    "name": "ha-halt-back",
+    "points": 122,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ha-halt-back.png",
+    "xws": "hahaltback",
+    "assetno": "###"
+  },
+  {
+    "name": "ha-halt-front",
+    "points": 123,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ha-halt-front.png",
+    "xws": "hahaltfront",
+    "assetno": "029"
+  },
+  {
+    "name": "029",
+    "points": 124,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ha-halt-front.png",
+    "xws": "hahaltfront",
+    "assetno": "029"
+  },
+  {
+    "name": "ha-player-reference-back",
+    "points": 125,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ha-player-reference-back.png",
+    "xws": "haplayerreferenceback",
+    "assetno": "###"
+  },
+  {
+    "name": "ha-player-reference-front",
+    "points": 126,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ha-player-reference-front.png",
+    "xws": "haplayerreferencefront",
+    "assetno": "001"
+  },
+  {
+    "name": "001",
+    "points": 127,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ha-player-reference-front.png",
+    "xws": "haplayerreferencefront",
+    "assetno": "001"
   },
   {
     "name": "heart seeker",
-    "points": 104,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-heart-seeker.png",
-    "xws": "heartseeker"
+    "points": 128,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-heart-seeker.png",
+    "xws": "heartseeker",
+    "assetno": "038"
+  },
+  {
+    "name": "038",
+    "points": 129,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-heart-seeker.png",
+    "xws": "heartseeker",
+    "assetno": "038"
   },
   {
     "name": "overwatch",
-    "points": 105,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-overwatch.png",
-    "xws": "overwatch"
+    "points": 130,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-overwatch.png",
+    "xws": "overwatch",
+    "assetno": "028"
+  },
+  {
+    "name": "028",
+    "points": 131,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-overwatch.png",
+    "xws": "overwatch",
+    "assetno": "028"
   },
   {
     "name": "power pitch",
-    "points": 106,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-power-pitch.png",
-    "xws": "powerpitch"
+    "points": 132,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-power-pitch.png",
+    "xws": "powerpitch",
+    "assetno": "017"
+  },
+  {
+    "name": "017",
+    "points": 133,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-power-pitch.png",
+    "xws": "powerpitch",
+    "assetno": "017"
   },
   {
     "name": "quick turnaround",
-    "points": 107,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-quick-turnaround.png",
-    "xws": "quickturnaround"
+    "points": 134,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-quick-turnaround.png",
+    "xws": "quickturnaround",
+    "assetno": "032"
+  },
+  {
+    "name": "032",
+    "points": 135,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-quick-turnaround.png",
+    "xws": "quickturnaround",
+    "assetno": "032"
   },
   {
     "name": "repeat shot",
-    "points": 108,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-repeat-shot.png",
-    "xws": "repeatshot"
+    "points": 136,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-repeat-shot.png",
+    "xws": "repeatshot",
+    "assetno": "023"
+  },
+  {
+    "name": "023",
+    "points": 137,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-repeat-shot.png",
+    "xws": "repeatshot",
+    "assetno": "023"
   },
   {
     "name": "retrieval",
-    "points": 109,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-retrieval.png",
-    "xws": "retrieval"
+    "points": 138,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-retrieval.png",
+    "xws": "retrieval",
+    "assetno": "011"
+  },
+  {
+    "name": "011",
+    "points": 139,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-retrieval.png",
+    "xws": "retrieval",
+    "assetno": "011"
   },
   {
     "name": "ricochet",
-    "points": 110,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-ricochet.png",
-    "xws": "ricochet"
+    "points": 140,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ricochet.png",
+    "xws": "ricochet",
+    "assetno": "024"
+  },
+  {
+    "name": "024",
+    "points": 141,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ricochet.png",
+    "xws": "ricochet",
+    "assetno": "024"
   },
   {
     "name": "ripped from the flesh",
-    "points": 111,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-ripped-from-the-flesh.png",
-    "xws": "rippedfromtheflesh"
+    "points": 142,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ripped-from-the-flesh.png",
+    "xws": "rippedfromtheflesh",
+    "assetno": "027"
+  },
+  {
+    "name": "027",
+    "points": 143,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-ripped-from-the-flesh.png",
+    "xws": "rippedfromtheflesh",
+    "assetno": "027"
   },
   {
     "name": "second wind",
-    "points": 112,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-second-wind.png",
-    "xws": "secondwind"
+    "points": 144,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-second-wind.png",
+    "xws": "secondwind",
+    "assetno": "019"
+  },
+  {
+    "name": "019",
+    "points": 145,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-second-wind.png",
+    "xws": "secondwind",
+    "assetno": "019"
   },
   {
     "name": "sharpened blades",
-    "points": 113,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-sharpened-blades.png",
-    "xws": "sharpenedblades"
+    "points": 146,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-sharpened-blades.png",
+    "xws": "sharpenedblades",
+    "assetno": "026"
+  },
+  {
+    "name": "026",
+    "points": 147,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-sharpened-blades.png",
+    "xws": "sharpenedblades",
+    "assetno": "026"
   },
   {
     "name": "shrapnel",
-    "points": 114,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-shrapnel.png",
-    "xws": "shrapnel"
+    "points": 148,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-shrapnel.png",
+    "xws": "shrapnel",
+    "assetno": "035"
+  },
+  {
+    "name": "035",
+    "points": 149,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-shrapnel.png",
+    "xws": "shrapnel",
+    "assetno": "035"
   },
   {
     "name": "stopping power",
-    "points": 115,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-stopping-power.png",
-    "xws": "stoppingpower"
+    "points": 150,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-stopping-power.png",
+    "xws": "stoppingpower",
+    "assetno": "014"
+  },
+  {
+    "name": "014",
+    "points": 151,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-stopping-power.png",
+    "xws": "stoppingpower",
+    "assetno": "014"
   },
   {
     "name": "the favorite",
-    "points": 116,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-the-favorite.png",
-    "xws": "thefavorite"
+    "points": 152,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-the-favorite.png",
+    "xws": "thefavorite",
+    "assetno": "010"
+  },
+  {
+    "name": "010",
+    "points": 153,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-the-favorite.png",
+    "xws": "thefavorite",
+    "assetno": "010"
   },
   {
     "name": "the new favorite",
-    "points": 117,
-    "expansion": "Jaws Of The Lion",
-    "image": "character-ability-cards/jaws-of-the-lion/HA/jl-the-new-favorite.png",
-    "xws": "thenewfavorite"
+    "points": 154,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-the-new-favorite.png",
+    "xws": "thenewfavorite",
+    "assetno": "030"
+  },
+  {
+    "name": "030",
+    "points": 155,
+    "expansion": "jaws of the lion",
+    "image": "character-ability-cards/jaws-of-the-lion/ha/jl-the-new-favorite.png",
+    "xws": "thenewfavorite",
+    "assetno": "030"
   },
   {
     "name": "rg-back",
-    "points": 118,
+    "points": 156,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-rg-back.png",
     "xws": "rgback"
   },
   {
     "name": "rg-halt-back",
-    "points": 119,
+    "points": 157,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-rg-halt-back.png",
     "xws": "rghaltback"
   },
   {
     "name": "rg-halt-front",
-    "points": 120,
+    "points": 158,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-rg-halt-front.png",
     "xws": "rghaltback"
   },
   {
     "name": "rg-player-reference-back",
-    "points": 121,
+    "points": 159,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-rg-player-reference-back.png",
     "xws": "rgplayerreferenceback"
   },
   {
     "name": "rg-player-reference-front",
-    "points": 122,
+    "points": 160,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-rg-player-reference-front.png",
     "xws": "rgplayerreferencefront"
   },
   {
     "name": "a-blinding sickle",
-    "points": 123,
+    "points": 161,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-a-blinding-sickle.png",
     "xws": "ablindingsickle"
   },
   {
     "name": "a-desert night",
-    "points": 124,
+    "points": 162,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-a-desert-night.png",
     "xws": "adesertnight"
   },
   {
     "name": "a-flaming sickle",
-    "points": 125,
+    "points": 163,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-a-flaming-sickle.png",
     "xws": "aflamingsickle"
   },
   {
     "name": "a-shield spikes",
-    "points": 126,
+    "points": 164,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-a-shield-spikes.png",
     "xws": "ashieldspikes"
   },
   {
     "name": "a-shocking advance",
-    "points": 127,
+    "points": 165,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-a-shocking-advance.png",
     "xws": "ashockingadvance"
   },
   {
     "name": "a-twirling stabs",
-    "points": 128,
+    "points": 166,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-a-twirling-stabs.png",
     "xws": "atwirlingstabs"
   },
   {
     "name": "b-desert night",
-    "points": 129,
+    "points": 167,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-b-desert-night.png",
     "xws": "bdesertnight"
   },
   {
     "name": "b-flaming sickle",
-    "points": 130,
+    "points": 168,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-b-flaming-sickle.png",
     "xws": "bflamingsickle"
   },
   {
     "name": "barbaric instincts",
-    "points": 131,
+    "points": 169,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-barbaric-instincts.png",
     "xws": "barbaricinstincts"
   },
   {
     "name": "blade dance",
-    "points": 132,
+    "points": 170,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-blade-dance.png",
     "xws": "bladedance"
   },
   {
     "name": "blinding sickle",
-    "points": 133,
+    "points": 171,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-blinding-sickle.png",
     "xws": "blindingsickle"
   },
   {
     "name": "burn away the dark",
-    "points": 134,
+    "points": 172,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-burn-away-the-dark.png",
     "xws": "burnawaythedark"
   },
   {
     "name": "desert night",
-    "points": 135,
+    "points": 173,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-desert-night.png",
     "xws": "desertnight"
   },
   {
     "name": "fierce brilliance",
-    "points": 136,
+    "points": 174,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-fierce-brilliance.png",
     "xws": "fiercebrilliance"
   },
   {
     "name": "flame shroud",
-    "points": 137,
+    "points": 175,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-flame-shroud.png",
     "xws": "flameshroud"
   },
   {
     "name": "flaming sickle",
-    "points": 138,
+    "points": 176,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-flaming-sickle.png",
     "xws": "flamingsickle"
   },
   {
     "name": "flying sickle",
-    "points": 139,
+    "points": 177,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-flying-sickle.png",
     "xws": "flyingsickle"
   },
   {
     "name": "harvest sickle",
-    "points": 140,
+    "points": 178,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-harvest-sickle.png",
     "xws": "harvestsickle"
   },
   {
     "name": "healing sands",
-    "points": 141,
+    "points": 179,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-healing-sands.png",
     "xws": "healingsands"
   },
   {
     "name": "honorable fury",
-    "points": 142,
+    "points": 180,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-honorable-fury.png",
     "xws": "honorablefury"
   },
   {
     "name": "horns of the beast",
-    "points": 143,
+    "points": 181,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-horns-of-the-beast.png",
     "xws": "hornsofthebeast"
   },
   {
     "name": "no fear",
-    "points": 144,
+    "points": 182,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-no-fear.png",
     "xws": "nofear"
   },
   {
     "name": "precision strike",
-    "points": 145,
+    "points": 183,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-precision-strike.png",
     "xws": "precisionstrike"
   },
   {
     "name": "prismatic sickle",
-    "points": 146,
+    "points": 184,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-prismatic-sickle.png",
     "xws": "prismaticsickle"
   },
   {
     "name": "radiant sickle",
-    "points": 147,
+    "points": 185,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-radiant-sickle.png",
     "xws": "radiantsickle"
   },
   {
     "name": "sand devil",
-    "points": 148,
+    "points": 186,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-sand-devil.png",
     "xws": "sanddevil"
   },
   {
     "name": "shield of the desert",
-    "points": 149,
+    "points": 187,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-shield-of-the-desert.png",
     "xws": "shieldofthedesert"
   },
   {
     "name": "shield spikes",
-    "points": 150,
+    "points": 188,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-shield-spikes.png",
     "xws": "shieldspikes"
   },
   {
     "name": "shocking advance",
-    "points": 151,
+    "points": 189,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-shocking-advance.png",
     "xws": "shockingadvance"
   },
   {
     "name": "soaring shield",
-    "points": 152,
+    "points": 190,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-soaring-shield.png",
     "xws": "soaringshield"
   },
   {
     "name": "strangling chain",
-    "points": 153,
+    "points": 191,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-strangling-chain.png",
     "xws": "stranglingchain"
   },
   {
     "name": "swift strength",
-    "points": 154,
+    "points": 192,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-swift-strength.png",
     "xws": "swiftstrength"
   },
   {
     "name": "twirling stabs",
-    "points": 155,
+    "points": 193,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-twirling-stabs.png",
     "xws": "twirlingstabs"
   },
   {
     "name": "vicious ballet",
-    "points": 156,
+    "points": 194,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-vicious-ballet.png",
     "xws": "viciousballet"
   },
   {
     "name": "warmth of the sun",
-    "points": 157,
+    "points": 195,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-warmth-of-the-sun.png",
     "xws": "warmthofthesun"
   },
   {
     "name": "warrior of the sun",
-    "points": 158,
+    "points": 196,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/RG/jl-warrior-of-the-sun.png",
     "xws": "warriorofthesun"
   },
   {
     "name": "vw-back",
-    "points": 159,
+    "points": 197,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-vw-back.png",
     "xws": "vwback"
   },
   {
     "name": "vw-halt-back",
-    "points": 160,
+    "points": 198,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-vw-halt-back.png",
     "xws": "vwhaltback"
   },
   {
     "name": "vw-halt-front",
-    "points": 161,
+    "points": 199,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-vw-front.png",
     "xws": "vwhaltfront"
   },
   {
     "name": "vw-player-reference-back",
-    "points": 162,
+    "points": 200,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-vw-player-reference-back.png",
     "xws": "vwplayerreferenceback"
   },
   {
     "name": "vw-player-reference-front",
-    "points": 163,
+    "points": 201,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-vw-player-reference-front.png",
     "xws": "vwplayerreferencefront"
   },
   {
     "name": "a-black boon",
-    "points": 164,
+    "points": 202,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-a-black-boon.png",
     "xws": "ablackboon"
   },
   {
     "name": "a-gift of the void",
-    "points": 165,
+    "points": 203,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-a-gift-of-the-void.png",
     "xws": "agiftofthevoid"
   },
   {
     "name": "a-lure of the void",
-    "points": 166,
+    "points": 204,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-a-lure-of-the-void.png",
     "xws": "alureofthevoid"
   },
   {
     "name": "a-suggestion",
-    "points": 167,
+    "points": 205,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-a-suggestion.png",
     "xws": "suggestion"
   },
   {
     "name": "a-turn out the lights",
-    "points": 168,
+    "points": 206,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-a-turn-out-the-lights.png",
     "xws": "aturnoutthelights"
   },
   {
     "name": "a-wicked scratch",
-    "points": 169,
+    "points": 207,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-a-wicked-scratch.png",
     "xws": "awickedscratch"
   },
   {
     "name": "b-lure of the void",
-    "points": 170,
+    "points": 208,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-b-lure-of-the-void.png",
     "xws": "blureofthevoid"
   },
   {
     "name": "b-wicked scratch",
-    "points": 171,
+    "points": 209,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-b-wicked-scratch.png",
     "xws": "bwickedscratch"
   },
   {
     "name": "black boon",
-    "points": 172,
+    "points": 210,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-black-boon.png",
     "xws": "blackboon"
   },
   {
     "name": "close to the abyss",
-    "points": 173,
+    "points": 211,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-close-to-the-abyss.png",
     "xws": "closetotheabyss"
   },
   {
     "name": "cold embrace",
-    "points": 174,
+    "points": 212,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-cold-embrace.png",
     "xws": "coldembrace"
   },
   {
     "name": "commanding presence",
-    "points": 175,
+    "points": 213,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-commanding-presence.png",
     "xws": "commandingpresence"
   },
   {
     "name": "crushing cold",
-    "points": 176,
+    "points": 214,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-crushing-cold.png",
     "xws": "crushingcold"
   },
   {
     "name": "empowered link",
-    "points": 177,
+    "points": 215,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-empowered-link.png",
     "xws": "empoweredlink"
   },
   {
     "name": "eye of the void",
-    "points": 178,
+    "points": 216,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-eye-of-the-void.png",
     "xws": "eyeofthevoid"
   },
   {
     "name": "freeze the soul",
-    "points": 179,
+    "points": 217,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-freeze-the-soul.png",
     "xws": "freezethesoul"
   },
   {
     "name": "gift of the void",
-    "points": 180,
+    "points": 218,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-gift-of-the-void.png",
     "xws": "giftofthevoid"
   },
   {
     "name": "give and take",
-    "points": 181,
+    "points": 219,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-give-and-take.png",
     "xws": "giveandtake"
   },
   {
     "name": "grasp of doom",
-    "points": 182,
+    "points": 220,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-grasp-of-doom.png",
     "xws": "graspofdoom"
   },
   {
     "name": "hateful blast",
-    "points": 183,
+    "points": 221,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-hateful-blast.png",
     "xws": "hatefulblast"
   },
   {
     "name": "lull into oblivion",
-    "points": 184,
+    "points": 222,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-lull-into-oblivion.png",
     "xws": "lullintooblivion"
   },
   {
     "name": "lure of the void",
-    "points": 185,
+    "points": 223,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-lure-of-the-void.png",
     "xws": "lureofthevoid"
   },
   {
     "name": "master influence",
-    "points": 186,
+    "points": 224,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-master-influence.png",
     "xws": "masterinfluence"
   },
   {
     "name": "possessed by fate",
-    "points": 187,
+    "points": 225,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-possessed-by-fate.png",
     "xws": "possessedbyfate"
   },
   {
     "name": "resigned frenzy",
-    "points": 188,
+    "points": 226,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-resigned-frenzy.png",
     "xws": "resignedfrenzy"
   },
   {
     "name": "sap warmth",
-    "points": 189,
+    "points": 227,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-sap-warmth.png",
     "xws": "sapwarmth"
   },
   {
     "name": "savage instinct",
-    "points": 190,
+    "points": 228,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-savage-instinct.png",
     "xws": "savageinstinct"
   },
   {
     "name": "signs of the void",
-    "points": 191,
+    "points": 229,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-signs-of-the-void.png",
     "xws": "signsofthevoid"
   },
   {
     "name": "spirit hunger",
-    "points": 192,
+    "points": 230,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-spirit-hunger.png",
     "xws": "spirithunger"
   },
   {
     "name": "stand fast",
-    "points": 193,
+    "points": 231,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-stand-fast.png",
     "xws": "standfast"
   },
   {
     "name": "suggestion",
-    "points": 194,
+    "points": 232,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-suggestion.png",
     "xws": "suggestion"
   },
   {
     "name": "surge of power",
-    "points": 195,
+    "points": 233,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-surge-of-power.png",
     "xws": "surgeofpower"
   },
   {
     "name": "taunting fate",
-    "points": 196,
+    "points": 234,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-taunting-fate.png",
     "xws": "tauntingfate"
   },
   {
     "name": "the last journey",
-    "points": 197,
+    "points": 235,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-the-last-journey.png",
     "xws": "thelastjourney"
   },
   {
     "name": "turn out the lights",
-    "points": 198,
+    "points": 236,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-turn-out-the-lights.png",
     "xws": "turnoutthelights"
   },
   {
     "name": "wicked scratch",
-    "points": 199,
+    "points": 237,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-wicked-scratch.png",
     "xws": "wickedscratch"
   },
   {
     "name": "withering conviction",
-    "points": 200,
+    "points": 238,
     "expansion": "Jaws Of The Lion",
     "image": "character-ability-cards/jaws-of-the-lion/VW/jl-withering-conviction.png",
     "xws": "witheringconviction"
